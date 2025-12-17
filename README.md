@@ -1,10 +1,10 @@
 # 📘 Deteksi Serangan BHP Flooding pada OBS Network Menggunakan Deep Learning
 
 ## 👤 Informasi
-- **Nama**: Istya Yulia Amesti
+- **Nama**: Fernanda Adityo Saputro
 - **Program Studi**: Teknologi Informasi
 - **Institusi**: Politeknik Negeri Madiun
-- **Repository**: [Isi link GitHub jika ada]
+- **Repository**: [(https://github.com/fernn13/UAS-DataScience.git )]
 - **Video**: [Isi link jika ada]
 
 ---
